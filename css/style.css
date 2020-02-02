@@ -107,7 +107,7 @@ h1 {
     bottom: 20px;
     right: 30px;
     background-color: transparent;
-    
+    z-index: 4;
     border: none;
     outline: none;
     cursor: pointer;
